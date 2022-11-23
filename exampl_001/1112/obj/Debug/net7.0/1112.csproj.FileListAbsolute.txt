@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\exampl\exampl_001\1112\bin\Debug\net7.0\1112.exe
+C:\Users\Павел\Desktop\exampl\exampl_001\1112\bin\Debug\net7.0\1112.deps.json
+C:\Users\Павел\Desktop\exampl\exampl_001\1112\bin\Debug\net7.0\1112.runtimeconfig.json
+C:\Users\Павел\Desktop\exampl\exampl_001\1112\bin\Debug\net7.0\1112.dll
+C:\Users\Павел\Desktop\exampl\exampl_001\1112\bin\Debug\net7.0\1112.pdb
+C:\Users\Павел\Desktop\exampl\exampl_001\1112\obj\Debug\net7.0\1112.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\exampl\exampl_001\1112\obj\Debug\net7.0\1112.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\exampl\exampl_001\1112\obj\Debug\net7.0\1112.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\exampl\exampl_001\1112\obj\Debug\net7.0\1112.AssemblyInfo.cs
+C:\Users\Павел\Desktop\exampl\exampl_001\1112\obj\Debug\net7.0\1112.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\exampl\exampl_001\1112\obj\Debug\net7.0\1112.dll
+C:\Users\Павел\Desktop\exampl\exampl_001\1112\obj\Debug\net7.0\refint\1112.dll
+C:\Users\Павел\Desktop\exampl\exampl_001\1112\obj\Debug\net7.0\1112.pdb
+C:\Users\Павел\Desktop\exampl\exampl_001\1112\obj\Debug\net7.0\1112.genruntimeconfig.cache
+C:\Users\Павел\Desktop\exampl\exampl_001\1112\obj\Debug\net7.0\ref\1112.dll
